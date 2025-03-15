@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently studying **Artificial Intelligence** at **University of Malta**
 
-- 📫 How to reach me **malcolmborg24@gmail.com**
-
 - Some of my projects:
   * https://malcolmborg.com
   * https://athletereminder.online
