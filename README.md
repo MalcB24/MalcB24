@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
 - 🔭 I’m currently working on various personal projects all while experimenting with AI
 
-- 🌱 I’m currently studying **Artificial Intelligence** at **University of Malta**
+- 🌱 I graduated from the **University of Malta**, where I studied **Artificial Intelligence**
 
 - Some of my projects:
   * https://malcolmborg.com
