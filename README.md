@@ -3,10 +3,41 @@
 
 - 🌱 I graduated from the **University of Malta**, where I studied **Artificial Intelligence**
 
-- Some of my projects:
-  * https://malcolmborg.com
-  * https://athletereminder.online
-  * https://powerform.site (My FYP which is still in development)
+## 🧠 Projects
+
+### [malcolmborg.com](https://malcolmborg.com)
+A personal **photography portfolio** showcasing my photography.  
+Built with **Angular**, **.NET**, **Azure Blob Storage**, and **SQL Server**.  
+Features a custom admin dashboard, image upload pipeline, and **Auth0**-based authentication.
+
+---
+
+### [Athlete Reminder](https://athletereminder.online)
+A tool that helps **powerlifters and coaches** manage upcoming competitions and reminders.
+Developed using **Aurelia**, **.NET**, and **Azure Function Apps**, with integrated **web scraping** to automatically fetch meet data from Goodlift.  
+Stores data securely in **SQL Server** and uses **Auth0** for authentication.
+
+---
+
+### [PowerForm](https://powerform.site)
+My **Final Year Project** — an AI-powered platform that analyzes **powerlifting form** using **computer vision**.  
+Front-end in **Aurelia**, backend in **.NET**, and **Flask ML** service powered by **OpenCV**, **YOLOv11**, and **custom self-trained models** on a **self-gathered dataset**.  
+Implements **Auth0** for user management.
+
+---
+
+### [SpiteBase](https://www.spitebase.com)
+A fun and anonymous social platform for people to share their “spites.”  
+Built with **Angular**, **NestJS**, and **SQL Server**, featuring **Auth0** authentication.  
+Focuses on smooth UX, privacy, and an expressive, minimalist design.
+
+---
+
+### My Garage
+An **internal management tool** for a local garage, not publicly hosted.
+Built with **Angular** and **.NET**, it helps manage **services, cars, and parts** through an intuitive dashboard.
+Designed for performance and easy scalability.
+
   
 
 <h3 align="left">Connect with me:</h3>
