@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malcolm</h1>
-- 🔭 I’m currently working on various personal projects all while experimenting with AI
 
+- 🔭 I’m currently working on various personal projects all while working and experimenting with AI
 - 🌱 I graduated from the **University of Malta**, where I studied **Artificial Intelligence**
-
+- I also dabble in embedded systems - mainly with rapsberry pi (pico) and esp32 (check out some of my public repos with simple abtractions to facilitate projects)
+ 
 ## 🧠 Projects
 
 ### [malcolmborg.com](https://malcolmborg.com)
