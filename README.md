@@ -27,6 +27,17 @@ Implements **Auth0** for user management.
 
 ---
 
+### [Recipe Me]([https://recipeme.app](https://salmon-beach-0f4a77103.7.azurestaticapps.net/))
+A personal recipe management platform built to help home cooks preserve, organize, and improve recipes over time.
+
+The idea came from my own habit of discovering great recipes while cooking, only to forget the lessons, tweaks, and techniques I learned later. Recipe Me solves this by allowing users to import recipes from websites, images, or manually created entries, then enrich them with personal notes, modifications, and cooking insights.
+
+Features AI-powered recipe extraction from uploaded images and web pages, intelligently placing extracted notes and instructions into the most relevant sections of a recipe. Users can customize recipes, add their own twists, and build a personalized cooking knowledge base.
+
+Built with **Angular**, **NestJS**, and **Microsoft Azure**, leveraging **Azure Function Apps**, **Azure Key Vault**, **Azure Blob Storage**, and **WebSockets** for real-time updates. The project was primarily developed using **OpenAI Codex**, serving as my first deep dive into AI-assisted software development and "vibe coding."
+
+---
+
 ### [SpiteBase](https://www.spitebase.com)
 A fun and anonymous social platform for people to share their “spites.”  
 Built with **Angular**, **NestJS**, and **SQL Server**, featuring **Auth0** authentication.  
