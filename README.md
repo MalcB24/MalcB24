@@ -27,7 +27,7 @@ Implements **Auth0** for user management.
 
 ---
 
-### [Recipe Me]([https://recipeme.app](https://salmon-beach-0f4a77103.7.azurestaticapps.net/)
+### [Recipe Me](https://recipeme.app](https://salmon-beach-0f4a77103.7.azurestaticapps.net/)
 A personal recipe management platform built to help home cooks preserve, organize, and improve recipes over time.
 
 The idea came from my own habit of discovering great recipes while cooking, only to forget the lessons, tweaks, and techniques I learned later. Recipe Me solves this by allowing users to import recipes from websites, images, or manually created entries, then enrich them with personal notes, modifications, and cooking insights.
