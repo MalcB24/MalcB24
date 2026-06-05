@@ -28,13 +28,11 @@ Implements **Auth0** for user management.
 ---
 
 ### [Recipe Me](https://salmon-beach-0f4a77103.7.azurestaticapps.net/)
-A personal recipe management platform built to help home cooks preserve, organize, and improve recipes over time.
+A recipe management platform that helps users save, organize, and personalize recipes.
 
-The idea came from my own habit of discovering great recipes while cooking, only to forget the lessons, tweaks, and techniques I learned later. Recipe Me solves this by allowing users to import recipes from websites, images, or manually created entries, then enrich them with personal notes, modifications, and cooking insights.
+Inspired by my love of cooking and the tendency to forget useful techniques and tweaks over time, Recipe Me allows users to import recipes from websites and images, then enhance them with personal notes and modifications.
 
-Features AI-powered recipe extraction from uploaded images and web pages, intelligently placing extracted notes and instructions into the most relevant sections of a recipe. Users can customize recipes, add their own twists, and build a personalized cooking knowledge base.
-
-Built with **Angular**, **NestJS**, and **Microsoft Azure**, leveraging **Azure Function Apps**, **Azure Key Vault**, **Azure Blob Storage**, and **WebSockets** for real-time updates. The project was primarily developed using **OpenAI Codex**, serving as my first deep dive into AI-assisted software development and "vibe coding."
+Built with **Angular**, **NestJS**, and **Microsoft Azure**, featuring AI-powered recipe extraction, real-time updates via **WebSockets**, and secure storage using **Azure Blob Storage** and **Key Vault**. Developed primarily using **OpenAI Codex** as my first experiment with AI-assisted development.
 
 ---
 
